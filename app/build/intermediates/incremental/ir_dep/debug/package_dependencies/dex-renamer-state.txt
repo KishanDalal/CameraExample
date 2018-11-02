@@ -1,0 +1,4 @@
+#Fri Nov 02 00:35:34 EDT 2018
+base.0=/Users/xcode/Downloads/CameraExNotCompleted/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
